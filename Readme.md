@@ -1,0 +1,1 @@
+Olá esse projeto é cadastro de conta e login com variaveis privadas e gerador de conta aleatoria simples.
