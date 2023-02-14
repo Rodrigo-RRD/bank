@@ -27,7 +27,7 @@ public class Interative {
 
         //se for sim no cadastro
         if (resp == 's') {
-            System.out.println("\nInsira seu nome completo: ");
+            System.out.println("\nInsira seu nome completo em que os espaços utilize ( _ ): ");
             String nome = sc.next();
             acs.setName(nome);
 
