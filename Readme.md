@@ -6,4 +6,4 @@
 Abra o CMD na pasta do arquivo que esta o Banco_App.jar.
 * coloque no terminal "dir" e aperte enter.
 * Vendo que o arquivo esta aparente coloque "java -jar Banco_App.jar".
-* Estando com a pasta completa o arquivo vai ser executado normalemte.
+* Estando com a pasta completa o arquivo vai ser executado.
